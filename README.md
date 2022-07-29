@@ -1,2 +1,2 @@
-# Chatt-bot
+# Chat-bot
 Jetbrains project
